@@ -16,7 +16,5 @@ https://kenny1184.github.io/SoccerField/Models/BackNetGoal.gltf
 https://kenny1184.github.io/SoccerField/Models/SoccerfieldTexture.jpg
 https://kenny1184.github.io/SoccerField/Models/Clouds.jpg
 https://kenny1184.github.io/SoccerField/Models/Concrete_baseColor.png
-https://kenny1184.github.io/SoccerField/Models/Seamless beach sand 2 texture.jpg
 https://kenny1184.github.io/SoccerField/Models/Wood_baseColor.png
-
 
