@@ -1,2 +1,2 @@
 # SoccerField
-Soccerfield for altspace
+Soccerfield game model
